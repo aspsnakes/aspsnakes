@@ -1,12 +1,6 @@
 ## hello! call me asp 🍀
 
 i'm a senior in college majoring in computer science, with a minor in data science.
-here is the most recent song i listened to!:
-
-<a href="https://last.fm/user/aspofsnakes">
-<img src="https://github-readme-lastfm.vercel.app/?username=aspofsnakes" height="100px"></a>
-<br>
-<br>
 
 i use everything here:
 <p align="left">
