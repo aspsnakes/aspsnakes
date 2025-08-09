@@ -1,6 +1,6 @@
 ## hello! call me asp 🍀
 
-i'm a senior in college majoring in computer science, with a minor in data science.
+cs grad
 
 i use everything here:
 <p align="left">
